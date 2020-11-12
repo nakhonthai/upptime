@@ -46,6 +46,8 @@ sites:
     url: https://m17sal.m17.es/
   - name: M17-SPA
     url: https://hblinkspain.duckdns.org/mrefd/
+  - name: M17-THA
+    url: https://m17.dprns.com    
   - name: M17-URG
     url: https://m17-uruguay.ddns.net/m17/
   - name: M17-USA
